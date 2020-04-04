@@ -10,6 +10,6 @@
 	Olá, ${user}!!!
 	
 	<h4><a href="/usuarios">Listagem de usuários</a></h4> 
-	<h4><a href="/usuario">Cadastro de usuários</a></h4>
+	<h4>Cadastro de usuários</h4>
 </body>
 </html>

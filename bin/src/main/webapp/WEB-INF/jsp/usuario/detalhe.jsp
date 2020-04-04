@@ -4,12 +4,9 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>mvc: home</title>
+<title>mvc: detalhe usuario</title>
 </head>
 <body>
-	Olá, ${user}!!!
-	
-	<h4><a href="/usuarios">Listagem de usuários</a></h4> 
-	<h4><a href="/usuario">Cadastro de usuários</a></h4>
+
 </body>
 </html>

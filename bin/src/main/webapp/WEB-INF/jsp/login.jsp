@@ -4,16 +4,15 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>mvc: detalhe usuario</title>
+<title>mvc: login</title>
 </head>
 <body>
-	<form action="/usuario" method="post">
-		Nome:<input type="text" name="nome">
+	<font color="red">${msg}</font>
+	 
+	<form action="/login" method="post">
 		Login:<input type="text" name="login">
 		Senha:<input type="password" name="senha">
-		Email:<input type="text" name="email">
-		whatsapp:<input type="text" name="whatsapp">		
-		<input type="submit" value="Cadastrar"> 
+		<input type="submit" value="Acessar"> 
 	</form>
 </body>
 </html>
